@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Article Test</string>
+    <string name="article_subtitle">By Matt McCarthy</string>
+    <string name="article_text">You can use the text in your text file, or use the text provided for the article_text string in the strings.xml file of the finished ScrollingText app. The only requirement for this task is that the text must be long enough so that it doesn\'t fit on the screen.\n
+
+Keep in mind the following (refer to the figure below for an example):\n
+
+    As you enter or paste text in the strings.xml file, the text lines don\'t wrap around to the next line—they extend beyond the right margin. This is the correct behavior—each new line of text starting at the left margin represents an entire paragraph. If you want the text in strings.xml to be wrapped, you can press Return to enter hard line endings, or format the text first in a text editor with hard line endings.\n
+    Enter n to represent the end of a line, and another n to represent a blank line. You need to add end-of-line characters to keep paragraphs from running into each other.\n
+    Also, here\'s a link: http://terin.us\n
+     Are you looking for an adventure for your spring break?\n
+Space is still available on several Mission Service Trips! Service trips are an excellent opportunity for you to engage in community service and explore social issues affecting our country. These trips often lead to lifelong friendships and lasting memories.\n
+    Let\'s fit in a few more words just to get it to scroll.\n
+    </string>
+</resources>
